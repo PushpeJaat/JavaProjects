@@ -8,20 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-//class Result {
-//
-//    /*
-//     * Complete the 'reverseArray' function below.
-//     *
-//     * The function is expected to return an INTEGER_ARRAY.
-//     * The function accepts INTEGER_ARRAY a as parameter.
-//     */
-//
-//    public static List<Integer> reverseArray(List<Integer> a) {
-//        // Write your code here
-//
-//    }
-//}
+
 public class Main{
     public static void main(String[] args) {
         System.out.println("Write the marks of each sub. Total marks of each subject is 100");
